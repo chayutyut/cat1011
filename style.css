@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+    padding : 0%;
+    background: linear-gradient(to right, #ffffff , #666666)
+}
+.container{
+  text-align: center;
+}
+h1{
+    font-size: 6.5em;
+    margin: 1% 0% -3% 0%;
+    font-family: munito, sans-serif;
+    -wedkit-text-stroke: 2px black;
+    color: black;
+}
+p{
+    font-size: 4em;
+    font-family: munito, sans-serif;
+    -wedkit-text-stroke: 2px black;
+    color: black;
+    margin-bottom: 0%
+}
